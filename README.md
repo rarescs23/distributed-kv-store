@@ -136,4 +136,4 @@ src/test/                                 # unit, in-process cluster and TCP clu
 
 ## License
 
-Released under the MIT License (see [LICENSE](LICENSE)).
+Released under the MIT License.
